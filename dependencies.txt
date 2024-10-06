@@ -1,0 +1,6 @@
+geopandas==1.0.1
+geopy==2.4.1
+pandas==2.2.2
+snowflake-connector-python==3.12.1
+matplotlib==3.9.1
+seaborn==0.13.2
